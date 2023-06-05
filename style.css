@@ -24,3 +24,22 @@ button{
     border: 2px solid black;
     cursor: pointer;
 }
+.text-center{
+  text-align: center;
+}
+.bg-red{
+  background: red;
+}
+.mx-auto{
+  margin: auto;
+}
+.flex{
+  display:flex;
+}
+.flex-col{
+  flex-direction: column;
+} 
+
+.items-center{
+  align-items: center;
+}
